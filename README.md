@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 So 
-Hey! guys I'm currently learning .
+Hey guys, 
+I'm currently learning .
